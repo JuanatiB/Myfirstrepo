@@ -38,6 +38,6 @@ int main()
     }
     mensaje_final = nombre + ", tu puntuación es de " + to_string(puntuacion);
     cout<<mensaje_final<<endl;
-// this is so stupid slkdfjsl
+    
     return 0;
 }
